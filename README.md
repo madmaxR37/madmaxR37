@@ -8,7 +8,7 @@ I am Maximilien Tamko, a passionate FullStack developer with a keen interest in 
 
 ## 🔭 My Projects
 
-### 1. [Project Name](https://github.com/madmaxR37/cash-app-backend)
+### 1. MaGeno(https://github.com/madmaxR37/cash-app-backend)
 <!-- ![Project Screenshot](https://via.placeholder.com/600x300.png?text=Project+Screenshot)-->
 - **Description**: These are apis of a money transfert application, which enables users to, register authenticate and transfer funds.
 - **Technologies Used**:JavaScript, MongoDB, Node.js, Express.js, JWT, Swagger.
@@ -17,7 +17,7 @@ I am Maximilien Tamko, a passionate FullStack developer with a keen interest in 
   - Transaction filtering
   - Fund transactions inter and cross plate-form
 
-### 2. [Project Name](https://github.com/username/check-it-front-end)
+### 2. Check-it(https://github.com/username/check-it-front-end)
 <!-- ![Project Screenshot](https://via.placeholder.com/600x300.png?text=Project+Screenshot)-->
 - **Description**: Front end of a Market place and delivery management system.
 - **Technologies Used**: HTML,CSS,Bootstrap,Angular
