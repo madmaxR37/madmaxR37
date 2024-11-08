@@ -57,6 +57,6 @@ I am Maximilien Tamko, a passionate FullStack developer with a keen interest in 
 
 Feel free to reach out if you have any questions or just want to connect!
 
-- Email: [your-email@example.com](mailto:maxtamko74@gmail.com)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/maxtamko)
+- Email: [maxtamko74@gmail.com](mailto:maxtamko74@gmail.com)
+- LinkedIn: [Max Tamko](https://www.linkedin.com/in/maxtamko)
 
